@@ -5,6 +5,7 @@ $email = "nf0778723@otc.edu";
 $movie = "Tombstone";
 $food = "Chocolate";
 $technology = "One More Quad Driver in-ears";
+$tvShow = "Breaking Bad";
 
 ?>
 
@@ -24,6 +25,7 @@ $technology = "One More Quad Driver in-ears";
         <p class="lead">My name is <?= $name ?> and I'm going to learn you like there's no tomorrow!</p>
         <p>It's a good thing, too, because I'm getting graded on this. To check my grades, I log into Canvas with my student email which is <a href="mailto:<?= $email ?>"><?= $email ?></a>.</p>
         <p>Fortunately, I won't be distracted from my homework by my favorite movie (<?= $movie ?>) or my favorite food (<?= $food ?>) because I'm petrified of my teacher.</p>
+		<p>However, when I'm done with this, I'm gonna binge watch (<?= $tvShow ?>) because it's just too good.</p>
         <p>Hopefully I'll stay interested in PHP, even though my favorite picece of technology is <?= $technology ?>.</p>
         <hr>
         <div class="alert alert-info">
