@@ -1,10 +1,10 @@
 <?php
 
-$name = "Adam Engebretson";
-$email = "engebrea@otc.edu";
-$movie = "Breakfast at Tiffany's";
-$food = "Brats";
-$technology = "Docker";
+$name = "Nick Fahrlander";
+$email = "nf0778723@otc.edu";
+$movie = "Tombstone";
+$food = "Chocolate";
+$technology = "One More Quad Driver in-ears";
 
 ?>
 
